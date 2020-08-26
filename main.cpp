@@ -56,7 +56,7 @@ int main()
         {
             st.push(p.path());
         }
-    }
+    } 
     
     while(true && (0 == st.empty()))
     {
